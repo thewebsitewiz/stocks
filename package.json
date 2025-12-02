@@ -1,8 +1,18 @@
 {
   "dependencies": {
+    "dotenv": "^16.0.0",
+    "mongoose": "^8.0.0",
     "node-fetch": "^3.3.2"
   },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  },
+  "main": "index.js",
   "name": "stocks",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
   "type": "module",
   "version": "1.0.0"
 }
