@@ -1,17 +1,33 @@
 {
+  "author": "",
   "dependencies": {
     "dotenv": "^16.0.0",
+    "mongodb": "^7.0.0",
     "mongoose": "^8.0.0",
     "node-fetch": "^3.3.2"
   },
+  "description": "TypeScript-based stock data management system with MongoDB",
   "devDependencies": {
-    "nodemon": "^3.0.0"
+    "@types/mongodb": "^4.0.6",
+    "@types/node": "^20.19.25",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.0"
   },
-  "main": "index.js",
-  "name": "stocks",
+  "keywords": [
+    "mongodb",
+    "stocks",
+    "trading",
+    "typescript"
+  ],
+  "license": "ISC",
+  "main": "dist/index.js",
+  "name": "stocks-typescript",
   "scripts": {
-    "dev": "nodemon index.js",
-    "start": "node index.js"
+    "build": "tsc",
+    "clean": "rm -rf dist",
+    "dev": "tsx watch src/index.ts",
+    "prebuild": "npm run clean",
+    "start": "node dist/index.js"
   },
   "type": "module",
   "version": "1.0.0"
