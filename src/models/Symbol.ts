@@ -1,6 +1,5 @@
-// src/models/Symbol.ts
-import mongoose, { Schema, Document } from 'mongoose';
-import { ISymbol } from '../interfaces/symbol';
+import mongoose, { Schema } from 'mongoose';
+import { ISymbol } from '../interfaces/symbol.js';
 
 const symbolSchema = new Schema<ISymbol>(
   {

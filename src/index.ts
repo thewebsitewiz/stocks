@@ -1,27 +1,16 @@
 // src/index.ts
 import dotenv from 'dotenv';
-import Database from './database';
-import { Symbol } from './models/Symbol';
+import { connectDB } from './database.js';
+import { Symbol } from './models/Symbol.js';
+
 dotenv.config();
 
 async function main() {
   try {
-    await Database.connect();
+    await connectDB();
 
     // Your application logic here
     console.log('Application is running');
-  } catch (error) {
-    console.error('Failed to start application:', error);
-    process.exit(1);
-  }
-}
-
-/* async function main() {
-  try {
-    // Connect to database
-    await db.connect(
-      process.env.MONGODB_URI || 'mongodb://localhost:27017/stocks'
-    );
 
     // Example: Create a stock symbol
     const apple = new Symbol({
@@ -37,13 +26,10 @@ async function main() {
     // Example: Find all symbols
     const symbols = await Symbol.find();
     console.log('📊 Total symbols:', symbols.length);
-
-    // Cleanup
-    await db.disconnect();
   } catch (error) {
-    console.error('Error:', error);
+    console.error('Failed to start application:', error);
     process.exit(1);
   }
-} */
+}
 
 main();
