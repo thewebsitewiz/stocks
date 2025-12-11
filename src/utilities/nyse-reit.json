@@ -1,0 +1,1192 @@
+[
+  {
+    "symbol": "AAT",
+    "name": "AMERICAN ASSETS TRUST INC",
+    "url": "https://www.nyse.com/quote/XNYS:AAT",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "ABR",
+    "name": "ARBOR REALTY TRUST INC",
+    "url": "https://www.nyse.com/quote/XNYS:ABR",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "ACR",
+    "name": "ACRES COMMERCIAL REALTY CORP",
+    "url": "https://www.nyse.com/quote/XNYS:ACR",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "ACRE",
+    "name": "ARES COMMERCIAL REAL ESTATE",
+    "url": "https://www.nyse.com/quote/XNYS:ACRE",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "ADC",
+    "name": "AGREE REALTY CORP",
+    "url": "https://www.nyse.com/quote/XNYS:ADC",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "AGNC",
+    "name": "AGNC INVESTMENT CORP",
+    "url": "https://www.nyse.com/quote/XNGS:AGNC",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "AHH",
+    "name": "ARMADA HOFFLER PPTYS INC",
+    "url": "https://www.nyse.com/quote/XNYS:AHH",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "AIV",
+    "name": "APARTMENT INVESTMENT & MANAGEMENT",
+    "url": "https://www.nyse.com/quote/XNYS:AIV",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "AKR",
+    "name": "ACADIA REALTY TRUST",
+    "url": "https://www.nyse.com/quote/XNYS:AKR",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "ALEX",
+    "name": "ALEXANDER & BALDWIN INC",
+    "url": "https://www.nyse.com/quote/XNYS:ALEX",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "ALX",
+    "name": "ALEXANDER'S INC",
+    "url": "https://www.nyse.com/quote/XNYS:ALX",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "AMH",
+    "name": "AMERICAN HOMES 4 RENT",
+    "url": "https://www.nyse.com/quote/XNYS:AMH",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "AMT",
+    "name": "AMERICAN TOWER CORP",
+    "url": "https://www.nyse.com/quote/XNYS:AMT",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "AOMR",
+    "name": "ANGEL OAK MORTGAGE REIT INC",
+    "url": "https://www.nyse.com/quote/XNYS:AOMR",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "APLE",
+    "name": "APPLE HOSPITALITY REIT INC",
+    "url": "https://www.nyse.com/quote/XNYS:APLE",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "ARE",
+    "name": "ALEXANDRIA REAL ESTATE EQUITIES",
+    "url": "https://www.nyse.com/quote/XNYS:ARE",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "ARI",
+    "name": "APOLLO COMMERCIAL RL ESTATE FIN INC",
+    "url": "https://www.nyse.com/quote/XNYS:ARI",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "ARR",
+    "name": "ARMOUR RESIDENTIAL REIT INC",
+    "url": "https://www.nyse.com/quote/XNYS:ARR",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "AVB",
+    "name": "AVALONBAY COMMUNITIES INC",
+    "url": "https://www.nyse.com/quote/XNYS:AVB",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "BDN",
+    "name": "BRANDYWINE REALTY TRUST / OPER PTNR",
+    "url": "https://www.nyse.com/quote/XNYS:BDN",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "BFS",
+    "name": "SAUL CENTERS INC",
+    "url": "https://www.nyse.com/quote/XNYS:BFS",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "BHR",
+    "name": "BRAEMAR HOTELS & RESORTS INC",
+    "url": "https://www.nyse.com/quote/XNYS:BHR",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "BNL",
+    "name": "BROADSTONE NET LEASE INC",
+    "url": "https://www.nyse.com/quote/XNYS:BNL",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "BRSP",
+    "name": "BRIGHTSPIRE CAPITAL INC",
+    "url": "https://www.nyse.com/quote/XNYS:BRSP",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "BRT",
+    "name": "BRT APARTMENTS CORP",
+    "url": "https://www.nyse.com/quote/XNYS:BRT",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "BRX",
+    "name": "BRIXMOR PROPERTY GROUP INC",
+    "url": "https://www.nyse.com/quote/XNYS:BRX",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "BXMT",
+    "name": "BLACKSTONE MORTGAGE TRUST INC",
+    "url": "https://www.nyse.com/quote/XNYS:BXMT",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "BXP",
+    "name": "BXP INC",
+    "url": "https://www.nyse.com/quote/XNYS:BXP",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "CBL",
+    "name": "CBL & ASSOCIATES PROPERTIES INC",
+    "url": "https://www.nyse.com/quote/XNYS:CBL",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "CCI",
+    "name": "CROWN CASTLE INC",
+    "url": "https://www.nyse.com/quote/XNYS:CCI",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "CDP",
+    "name": "COPT DEFENSE PROPERTIES",
+    "url": "https://www.nyse.com/quote/XNYS:CDP",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "CHCT",
+    "name": "COMMUNITY HEALTHCARE TRUST INC",
+    "url": "https://www.nyse.com/quote/XNYS:CHCT",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "CHMI",
+    "name": "CHERRY HILL MORTGAGE INV CORP",
+    "url": "https://www.nyse.com/quote/XNYS:CHMI",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "CIM",
+    "name": "CHIMERA INVESTMENT CORPORATION",
+    "url": "https://www.nyse.com/quote/XNYS:CIM",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "CIO",
+    "name": "CITY OFFICE REIT INC",
+    "url": "https://www.nyse.com/quote/XNYS:CIO",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "CLDT",
+    "name": "CHATHAM LODGING TRUST",
+    "url": "https://www.nyse.com/quote/XNYS:CLDT",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "CLPR",
+    "name": "CLIPPER REALTY INC",
+    "url": "https://www.nyse.com/quote/XNYS:CLPR",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "COLD",
+    "name": "AMERICOLD REALTY TRUST INC",
+    "url": "https://www.nyse.com/quote/XNYS:COLD",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "CPT",
+    "name": "CAMDEN PROPERTY TRUST",
+    "url": "https://www.nyse.com/quote/XNYS:CPT",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "CSR",
+    "name": "CENTERSPACE",
+    "url": "https://www.nyse.com/quote/XNYS:CSR",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "CTO",
+    "name": "CTO RTLY GROWTH INC NEW",
+    "url": "https://www.nyse.com/quote/XNYS:CTO",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "CTRE",
+    "name": "CARETRUST REIT INC",
+    "url": "https://www.nyse.com/quote/XNYS:CTRE",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "CUBE",
+    "name": "CUBESMART",
+    "url": "https://www.nyse.com/quote/XNYS:CUBE",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "CUZ",
+    "name": "COUSINS PROPERTIES INC",
+    "url": "https://www.nyse.com/quote/XNYS:CUZ",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "CXW",
+    "name": "CORECIVIC INC",
+    "url": "https://www.nyse.com/quote/XNYS:CXW",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "DBRG",
+    "name": "DIGITALBRIDGE GROUP INC",
+    "url": "https://www.nyse.com/quote/XNYS:DBRG",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "DEI",
+    "name": "DOUGLAS EMMETT INC",
+    "url": "https://www.nyse.com/quote/XNYS:DEI",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "DHC",
+    "name": "DIVERSIFIED HEALTHCARE TRUST",
+    "url": "https://www.nyse.com/quote/XNGS:DHC",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "DLR",
+    "name": "DIGITAL REALTY TRUST INC",
+    "url": "https://www.nyse.com/quote/XNYS:DLR",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "DX",
+    "name": "DYNEX CAPITAL INC",
+    "url": "https://www.nyse.com/quote/XNYS:DX",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "EARN",
+    "name": "ELLINGTON CREDIT COMPANY",
+    "url": "https://www.nyse.com/quote/XNYS:EARN",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "EFC",
+    "name": "ELLINGTON FINANCIAL INC",
+    "url": "https://www.nyse.com/quote/XNYS:EFC",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "EGP",
+    "name": "EASTGROUP PROPERTIES INC",
+    "url": "https://www.nyse.com/quote/XNYS:EGP",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "ELME",
+    "name": "ELME COMMUNITIES",
+    "url": "https://www.nyse.com/quote/XNYS:ELME",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "ELS",
+    "name": "EQUITY LIFESTYLE PROPERTIES INC",
+    "url": "https://www.nyse.com/quote/XNYS:ELS",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "EPR",
+    "name": "EPR PROPERTIES",
+    "url": "https://www.nyse.com/quote/XNYS:EPR",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "EPRT",
+    "name": "ESSENTIAL PROPERTIES REALTY TR INC",
+    "url": "https://www.nyse.com/quote/XNYS:EPRT",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "EQIX",
+    "name": "EQUINIX INC",
+    "url": "https://www.nyse.com/quote/XNGS:EQIX",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "EQR",
+    "name": "EQUITY RESIDENTIAL",
+    "url": "https://www.nyse.com/quote/XNYS:EQR",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "ESRT",
+    "name": "EMPIRE ST RLTY TR INC",
+    "url": "https://www.nyse.com/quote/XNYS:ESRT",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "ESS",
+    "name": "ESSEX PROPERTY TRUST INC",
+    "url": "https://www.nyse.com/quote/XNYS:ESS",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "EXR",
+    "name": "EXTRA SPACE STORAGE INC",
+    "url": "https://www.nyse.com/quote/XNYS:EXR",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "FBRT",
+    "name": "FRANKLIN BSP REALTY TRUST INC",
+    "url": "https://www.nyse.com/quote/XNYS:FBRT",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "FCPT",
+    "name": "FOUR CORNERS PROPERTY TRUST INC",
+    "url": "https://www.nyse.com/quote/XNYS:FCPT",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "FPI",
+    "name": "FARMLAND PARTNERS INC",
+    "url": "https://www.nyse.com/quote/XNYS:FPI",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "FR",
+    "name": "FIRST INDUSTRIAL REALTY TRUST",
+    "url": "https://www.nyse.com/quote/XNYS:FR",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "FRT",
+    "name": "FEDERAL REALTY INVESTMENT TRUST",
+    "url": "https://www.nyse.com/quote/XNYS:FRT",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "FSP",
+    "name": "FRANKLIN STREET PROPERTIES CORP/MA",
+    "url": "https://www.nyse.com/quote/XASE:FSP",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "GEO",
+    "name": "GEO GROUP INC(THE)",
+    "url": "https://www.nyse.com/quote/XNYS:GEO",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "GLPI",
+    "name": "GAMING & LEISURE P",
+    "url": "https://www.nyse.com/quote/XNGS:GLPI",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "GMRE",
+    "name": "GLOBAL MEDICAL REIT INC",
+    "url": "https://www.nyse.com/quote/XNYS:GMRE",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "GNL",
+    "name": "GLOBAL NET LEASE INC",
+    "url": "https://www.nyse.com/quote/XNYS:GNL",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "GOOD",
+    "name": "GLADSTONE COMMERCIAL CORP",
+    "url": "https://www.nyse.com/quote/XNGS:GOOD",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "GPMT",
+    "name": "GRANITE POINT MORTGAGE TRUST INC",
+    "url": "https://www.nyse.com/quote/XNYS:GPMT",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "GTY",
+    "name": "GETTY REALTY CORP",
+    "url": "https://www.nyse.com/quote/XNYS:GTY",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "HIW",
+    "name": "HIGHWOODS PROPERTIES INC",
+    "url": "https://www.nyse.com/quote/XNYS:HIW",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "HR",
+    "name": "HRTI LLC",
+    "url": "https://www.nyse.com/quote/XNYS:HR",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "HST",
+    "name": "HOST HOTELS & RESORTS INC",
+    "url": "https://www.nyse.com/quote/XNGS:HST",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "IIPR",
+    "name": "INNOVATIVE INDUSTRIAL PROPERTES INC",
+    "url": "https://www.nyse.com/quote/XNYS:IIPR",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "ILPT",
+    "name": "INDUSTRIAL LOGISTICS PPTYS TR",
+    "url": "https://www.nyse.com/quote/XNGS:ILPT",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "INN",
+    "name": "SUMMIT HOTEL PROPERTIES INC",
+    "url": "https://www.nyse.com/quote/XNYS:INN",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "INVH",
+    "name": "INVITATION HOMES INC",
+    "url": "https://www.nyse.com/quote/XNYS:INVH",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "IOR",
+    "name": "INCOME OPPORTUNITY REALTY INVESTORS",
+    "url": "https://www.nyse.com/quote/XASE:IOR",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "IRM",
+    "name": "IRON MOUNTAIN INC",
+    "url": "https://www.nyse.com/quote/XNYS:IRM",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "IRT",
+    "name": "INDEPENDENCE REALTY TRUST INC",
+    "url": "https://www.nyse.com/quote/XNYS:IRT",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "IVR",
+    "name": "INVESCO MORTGAGE CAPITAL INC",
+    "url": "https://www.nyse.com/quote/XNYS:IVR",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "IVT",
+    "name": "INVENTRUST PPTYS CORP",
+    "url": "https://www.nyse.com/quote/XNYS:IVT",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "JBGS",
+    "name": "JBG SMITH PROPERTIES",
+    "url": "https://www.nyse.com/quote/XNYS:JBGS",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "KIM",
+    "name": "KIMCO REALTY CORP",
+    "url": "https://www.nyse.com/quote/XNYS:KIM",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "KRC",
+    "name": "KILROY REALTY CORP",
+    "url": "https://www.nyse.com/quote/XNYS:KRC",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "KREF",
+    "name": "KKR REAL ESTATE FINANCE TRUST INC",
+    "url": "https://www.nyse.com/quote/XNYS:KREF",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "KRG",
+    "name": "KITE REALTY GROUP TRUST",
+    "url": "https://www.nyse.com/quote/XNYS:KRG",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "LADR",
+    "name": "LADDER CAPITAL CORP",
+    "url": "https://www.nyse.com/quote/XNYS:LADR",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "LAMR",
+    "name": "LAMAR ADVERTISING CO",
+    "url": "https://www.nyse.com/quote/XNGS:LAMR",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "LAND",
+    "name": "GLADSTONE LAND CORP",
+    "url": "https://www.nyse.com/quote/XNMS:LAND",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "LFT",
+    "name": "LUMENT FINANCE TRUST INC",
+    "url": "https://www.nyse.com/quote/XNYS:LFT",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "LOAN",
+    "name": "MANHATTAN BRIDGE",
+    "url": "https://www.nyse.com/quote/XNCM:LOAN",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "LTC",
+    "name": "LTC PROPERTIES INC",
+    "url": "https://www.nyse.com/quote/XNYS:LTC",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "LXP",
+    "name": "LXP INDUSTRIAL TRUST",
+    "url": "https://www.nyse.com/quote/XNYS:LXP",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "MAA",
+    "name": "MID-AMERICA APARTMENT COMMUNITIES",
+    "url": "https://www.nyse.com/quote/XNYS:MAA",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "MAC",
+    "name": "MACERICH CO",
+    "url": "https://www.nyse.com/quote/XNYS:MAC",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "MDRR",
+    "name": "MEDALIST DIVERSIFIED REIT INC",
+    "url": "https://www.nyse.com/quote/XNCM:MDRR",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "MDV",
+    "name": "MODIV INDUSTRIAL INC",
+    "url": "https://www.nyse.com/quote/XNYS:MDV",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "MFA",
+    "name": "MFA FINANCIAL INC",
+    "url": "https://www.nyse.com/quote/XNYS:MFA",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "MITT",
+    "name": "AG MORTGAGE INVESTMENT TRUST INC",
+    "url": "https://www.nyse.com/quote/XNYS:MITT",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "MPW",
+    "name": "MEDICAL PROPERTIES TRUST INC",
+    "url": "https://www.nyse.com/quote/XNYS:MPW",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "NHI",
+    "name": "NATIONAL HEALTH INVESTORS",
+    "url": "https://www.nyse.com/quote/XNYS:NHI",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "NLY",
+    "name": "ANNALY CAPITAL MANAGEMENT INC",
+    "url": "https://www.nyse.com/quote/XNYS:NLY",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "NNN",
+    "name": "NNN REIT INC",
+    "url": "https://www.nyse.com/quote/XNYS:NNN",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "NREF",
+    "name": "NEXPOINT REAL ESTATE FINANCE INC",
+    "url": "https://www.nyse.com/quote/XNYS:NREF",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "NSA",
+    "name": "NATIONAL STORAGE AFFILIATES TRUST",
+    "url": "https://www.nyse.com/quote/XNYS:NSA",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "NTST",
+    "name": "NETSTREIT CORP",
+    "url": "https://www.nyse.com/quote/XNYS:NTST",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "NXDT",
+    "name": "NEXPOINT DIVERSIFIED REAL ESTATE TR",
+    "url": "https://www.nyse.com/quote/XNYS:NXDT",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "NXRT",
+    "name": "NEXPOINT RESIDENTIAL TRUST INC",
+    "url": "https://www.nyse.com/quote/XNYS:NXRT",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "NYC",
+    "name": "AMERICAN STRATEGIC INVESTMENT CO",
+    "url": "https://www.nyse.com/quote/XNYS:NYC",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "O",
+    "name": "REALTY INCOME CORP",
+    "url": "https://www.nyse.com/quote/XNYS:O",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "OHI",
+    "name": "OMEGA HEALTHCARE INVESTORS",
+    "url": "https://www.nyse.com/quote/XNYS:OHI",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "OLP",
+    "name": "ONE LIBERTY PROPERTIES",
+    "url": "https://www.nyse.com/quote/XNYS:OLP",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "ORC",
+    "name": "ORCHID ISLAND CAPITAL INC",
+    "url": "https://www.nyse.com/quote/XNYS:ORC",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "OUT",
+    "name": "OUTFRONT MEDIA INC",
+    "url": "https://www.nyse.com/quote/XNYS:OUT",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "PCH",
+    "name": "POTLATCHDELTIC CORPORATION",
+    "url": "https://www.nyse.com/quote/XNGS:PCH",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "PEB",
+    "name": "PEBBLEBROOK HOTEL TRUST",
+    "url": "https://www.nyse.com/quote/XNYS:PEB",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "PGRE",
+    "name": "PARAMOUNT GROUP INC",
+    "url": "https://www.nyse.com/quote/XNYS:PGRE",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "PINE",
+    "name": "ALPINE INCOME PROPERTY TRUST INC",
+    "url": "https://www.nyse.com/quote/XNYS:PINE",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "PK",
+    "name": "PARK HOTELS & RESORTS INC",
+    "url": "https://www.nyse.com/quote/XNYS:PK",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "PKST",
+    "name": "PEAKSTONE REALTY TRUST",
+    "url": "https://www.nyse.com/quote/XNYS:PKST",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "PLD",
+    "name": "PROLOGIS INC",
+    "url": "https://www.nyse.com/quote/XNYS:PLD",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "PLYM",
+    "name": "PLYMOUTH INDUSTRIAL REIT INC",
+    "url": "https://www.nyse.com/quote/XNYS:PLYM",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "PMT",
+    "name": "PENNYMAC MORTGAGE INVESTMENT TRUST",
+    "url": "https://www.nyse.com/quote/XNYS:PMT",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "PSA",
+    "name": "PUBLIC STORAGE",
+    "url": "https://www.nyse.com/quote/XNYS:PSA",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "PSTL",
+    "name": "POSTAL REALTY TRUST INC",
+    "url": "https://www.nyse.com/quote/XNYS:PSTL",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "RC",
+    "name": "READY CAPITAL CORPORATION",
+    "url": "https://www.nyse.com/quote/XNYS:RC",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "REG",
+    "name": "REGENCY CENTERS CORP",
+    "url": "https://www.nyse.com/quote/XNGS:REG",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "REXR",
+    "name": "REXFORD INDUSTRIAL REALTY INC",
+    "url": "https://www.nyse.com/quote/XNYS:REXR",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "RHP",
+    "name": "RYMAN HOSPITALITY PPTYS INC",
+    "url": "https://www.nyse.com/quote/XNYS:RHP",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "RITM",
+    "name": "RITHM CAPITAL CORP",
+    "url": "https://www.nyse.com/quote/XNYS:RITM",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "RLJ",
+    "name": "RLJ LODGING TR",
+    "url": "https://www.nyse.com/quote/XNYS:RLJ",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "RWT",
+    "name": "REDWOOD TRUST INC",
+    "url": "https://www.nyse.com/quote/XNYS:RWT",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "RYN",
+    "name": "RAYONIER INC",
+    "url": "https://www.nyse.com/quote/XNYS:RYN",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "SACH",
+    "name": "SACHEM CAPITAL CORP",
+    "url": "https://www.nyse.com/quote/XASE:SACH",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "SBAC",
+    "name": "SBA COMMUNICATIONS CORP",
+    "url": "https://www.nyse.com/quote/XNGS:SBAC",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "SBRA",
+    "name": "SABRA HEALTH CARE REIT INC",
+    "url": "https://www.nyse.com/quote/XNGS:SBRA",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "SELF",
+    "name": "GLOBAL SELF STORAGE INC",
+    "url": "https://www.nyse.com/quote/XNCM:SELF",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "SEVN",
+    "name": "SEVEN HILLS RLTY TR",
+    "url": "https://www.nyse.com/quote/XNCM:SEVN",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "SHO",
+    "name": "SUNSTONE HOTEL INVESTORS INC",
+    "url": "https://www.nyse.com/quote/XNYS:SHO",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "SKT",
+    "name": "TANGER INC",
+    "url": "https://www.nyse.com/quote/XNYS:SKT",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "SLG",
+    "name": "SL GREEN RLTY CORP",
+    "url": "https://www.nyse.com/quote/XNYS:SLG",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "SOHO",
+    "name": "SOTHERLY HOTELS INC",
+    "url": "https://www.nyse.com/quote/XNCM:SOHO",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "SPG",
+    "name": "SIMON PROPERTY GROUP INC",
+    "url": "https://www.nyse.com/quote/XNYS:SPG",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "SRG",
+    "name": "SERITAGE GROWTH PPTYS",
+    "url": "https://www.nyse.com/quote/XNYS:SRG",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "STAG",
+    "name": "STAG INDUSTRIAL INC",
+    "url": "https://www.nyse.com/quote/XNYS:STAG",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "STWD",
+    "name": "STARWOOD PROPERTY TRUST INC",
+    "url": "https://www.nyse.com/quote/XNYS:STWD",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "SUI",
+    "name": "SUN COMMUNITIES INC",
+    "url": "https://www.nyse.com/quote/XNYS:SUI",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "SVC",
+    "name": "SERVICE PROPERTIES TRUST",
+    "url": "https://www.nyse.com/quote/XNGS:SVC",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "TRNO",
+    "name": "TERRENO REALTY CORP",
+    "url": "https://www.nyse.com/quote/XNYS:TRNO",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "TRTX",
+    "name": "TPG RE FINANCE TRUST INC",
+    "url": "https://www.nyse.com/quote/XNYS:TRTX",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "TWO",
+    "name": "TWO HARBORS INVESTMENT CORP",
+    "url": "https://www.nyse.com/quote/XNYS:TWO",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "UDR",
+    "name": "UDR INC",
+    "url": "https://www.nyse.com/quote/XNYS:UDR",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "UE",
+    "name": "URBAN EDGE PROPERTIES",
+    "url": "https://www.nyse.com/quote/XNYS:UE",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "UHT",
+    "name": "UNIVERSAL HEALTH REALTY",
+    "url": "https://www.nyse.com/quote/XNYS:UHT",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "UMH",
+    "name": "U M H PROPERTIES INC",
+    "url": "https://www.nyse.com/quote/XNYS:UMH",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "UNIT",
+    "name": "UNITI GROUP INC",
+    "url": "https://www.nyse.com/quote/XNGS:UNIT",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "VICI",
+    "name": "VICI PROPERTIES INC",
+    "url": "https://www.nyse.com/quote/XNYS:VICI",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "VNO",
+    "name": "VORNADO REALTY TRUST",
+    "url": "https://www.nyse.com/quote/XNYS:VNO",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "VRE",
+    "name": "VERIS RESIDENTIAL INC",
+    "url": "https://www.nyse.com/quote/XNYS:VRE",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "VTR",
+    "name": "VENTAS INC",
+    "url": "https://www.nyse.com/quote/XNYS:VTR",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "WPC",
+    "name": "WP CAREY INC",
+    "url": "https://www.nyse.com/quote/XNYS:WPC",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "WSR",
+    "name": "WHITESTONE REIT",
+    "url": "https://www.nyse.com/quote/XNYS:WSR",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "WY",
+    "name": "WEYERHAEUSER COMPANY",
+    "url": "https://www.nyse.com/quote/XNYS:WY",
+    "instr": "REIT",
+    "market": "NYSE"
+  },
+  {
+    "symbol": "XHR",
+    "name": "XENIA HOTELS & RESORTS INC",
+    "url": "https://www.nyse.com/quote/XNYS:XHR",
+    "instr": "REIT",
+    "market": "NYSE"
+  }
+]
