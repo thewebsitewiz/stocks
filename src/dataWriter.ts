@@ -1,19 +1,11 @@
 import { Symbol } from './models/Symbol.js';
-import { ISymbol } from './interfaces/symbol.js';
+import { ISymbol, ISymbolData } from './interfaces/symbol.js';
 import { FilterQuery, UpdateQuery } from 'mongoose';
-
-// Add this type definition
-type SymbolData = {
-  symbol: string;
-  name: string;
-  market: string;
-  instr: string;
-};
 
 /**
  * Writes a single record to the database
  */
-export const writeData = async (data: SymbolData): Promise<ISymbol> => {
+export const writeData = async (data: ISymbolData): Promise<ISymbol> => {
   try {
     const symbol = new Symbol(data);
     await symbol.save();
@@ -27,4 +19,21 @@ export const writeData = async (data: SymbolData): Promise<ISymbol> => {
   }
 };
 
-// ... rest of your functions remain the same
+// vwrite an array to the database
+export const writeDataArray = async (
+  dataArray: ISymbolData[]
+): Promise<ISymbol[]> => {
+  const savedRecords: ISymbol[] = [];
+  for (const data of dataArray) {
+    try {
+      const savedRecord = await writeData(data);
+      savedRecords.push(savedRecord);
+    } catch (error) {
+      console.error(
+        `Failed to write record for symbol: ${data.symbol}`,
+        error instanceof Error ? error.message : 'Unknown error'
+      );
+    }
+  }
+  return savedRecords;
+};

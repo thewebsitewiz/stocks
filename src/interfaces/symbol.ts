@@ -10,3 +10,10 @@ export interface ISymbol extends Document {
   market: string;
   instr: string;
 }
+
+export interface ISymbolData {
+  symbol: string;
+  name: string;
+  market: string;
+  instr: string;
+}
